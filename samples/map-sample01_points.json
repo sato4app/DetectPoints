@@ -1,0 +1,145 @@
+{
+  "image_info": {
+    "filename": "map-sample01.png",
+    "width": 726,
+    "height": 624
+  },
+  "points": [
+    {
+      "id": "point_458_510",
+      "name": "point_458_510",
+      "x": 458,
+      "y": 510,
+      "relative_x": 0.6309,
+      "relative_y": 0.8173,
+      "radius": 11
+    },
+    {
+      "id": "point_514_510",
+      "name": "point_514_510",
+      "x": 514,
+      "y": 510,
+      "relative_x": 0.708,
+      "relative_y": 0.8173,
+      "radius": 11
+    },
+    {
+      "id": "point_676_418",
+      "name": "point_676_418",
+      "x": 676,
+      "y": 418,
+      "relative_x": 0.9311,
+      "relative_y": 0.6699,
+      "radius": 16
+    },
+    {
+      "id": "point_332_158",
+      "name": "point_332_158",
+      "x": 332,
+      "y": 158,
+      "relative_x": 0.4573,
+      "relative_y": 0.2532,
+      "radius": 14
+    },
+    {
+      "id": "SG",
+      "name": "SG",
+      "x": 348,
+      "y": 176,
+      "relative_x": 0.4793,
+      "relative_y": 0.2821,
+      "radius": 12
+    },
+    {
+      "id": "point_352_104",
+      "name": "point_352_104",
+      "x": 352,
+      "y": 104,
+      "relative_x": 0.4848,
+      "relative_y": 0.1667,
+      "radius": 13
+    },
+    {
+      "id": "OX",
+      "name": "OX",
+      "x": 646,
+      "y": 414,
+      "relative_x": 0.8898,
+      "relative_y": 0.6635,
+      "radius": 12
+    },
+    {
+      "id": "ER",
+      "name": "ER",
+      "x": 520,
+      "y": 2,
+      "relative_x": 0.7163,
+      "relative_y": 0.0032,
+      "radius": 11
+    },
+    {
+      "id": "point_516_606",
+      "name": "point_516_606",
+      "x": 516,
+      "y": 606,
+      "relative_x": 0.7107,
+      "relative_y": 0.9712,
+      "radius": 11
+    },
+    {
+      "id": "58",
+      "name": "58",
+      "x": 422,
+      "y": 86,
+      "relative_x": 0.5813,
+      "relative_y": 0.1378,
+      "radius": 6
+    },
+    {
+      "id": "point_510_578",
+      "name": "point_510_578",
+      "x": 510,
+      "y": 578,
+      "relative_x": 0.7025,
+      "relative_y": 0.9263,
+      "radius": 6
+    },
+    {
+      "id": "point_30_490",
+      "name": "point_30_490",
+      "x": 30,
+      "y": 490,
+      "relative_x": 0.0413,
+      "relative_y": 0.7853,
+      "radius": 14
+    },
+    {
+      "id": "CS",
+      "name": "CS",
+      "x": 446,
+      "y": 16,
+      "relative_x": 0.6143,
+      "relative_y": 0.0256,
+      "radius": 12
+    },
+    {
+      "id": "20",
+      "name": "20",
+      "x": 680,
+      "y": 484,
+      "relative_x": 0.9366,
+      "relative_y": 0.7756,
+      "radius": 6
+    },
+    {
+      "id": "point_312_178",
+      "name": "point_312_178",
+      "x": 312,
+      "y": 178,
+      "relative_x": 0.4298,
+      "relative_y": 0.2853,
+      "radius": 12
+    }
+  ],
+  "total_points": 15
+}
