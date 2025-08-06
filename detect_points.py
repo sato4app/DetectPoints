@@ -169,11 +169,11 @@ class HikingPointDetector:
             point_data = {
                 "id": point_name,
                 "name": point_name,
-                "x": x,
-                "y": y,
-                "relative_x": round(relative_x, 4),
-                "relative_y": round(relative_y, 4),
-                "radius": r
+                "x": int(x),
+                "y": int(y),
+                "relative_x": round(float(relative_x), 4),
+                "relative_y": round(float(relative_y), 4),
+                "radius": int(r)
             }
             
             points_data.append(point_data)
@@ -187,8 +187,8 @@ class HikingPointDetector:
         result = {
             "image_info": {
                 "filename": os.path.basename(self.image_path),
-                "width": self.width,
-                "height": self.height
+                "width": int(self.width),
+                "height": int(self.height)
             },
             "points": points_data,
             "total_points": len(points_data)
